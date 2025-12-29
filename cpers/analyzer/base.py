@@ -8,3 +8,5 @@ class Analyzer(ABC):
     def process(self, input_data:any)->any:
         # Placeholdßer for processing logic
         pass
+    def additional_method(self):
+        pass
